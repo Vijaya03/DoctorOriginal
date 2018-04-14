@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.hp.doctororiginal.Doc"
+>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="400dp"
+        android:layout_marginTop="150dp"
+        android:text="Doctor Appointment Management"
+        android:textSize="50dp"
+        android:layout_marginLeft="8dp"
+        android:id="@+id/welcomeScreen"
+        android:textColor="#0942ef"/>
+
+</LinearLayout>
